@@ -6,5 +6,7 @@ https://blog.ms-researchhub.com/2021/11/27/modeling-asset-prices-with-geometric-
 
 https://www.road2quant.com/blog/geometric-brownian-simulation
 
+https://www.forextrading22.com/how-to-use-brownian-motion-in-trading/
+
 
 
