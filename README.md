@@ -8,5 +8,7 @@ https://www.road2quant.com/blog/geometric-brownian-simulation
 
 https://www.forextrading22.com/how-to-use-brownian-motion-in-trading/
 
+https://hudsonthames.org/employing-machine-learning-for-trading-pairs-selection/
+
 
 
